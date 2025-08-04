@@ -1,3 +1,4 @@
 yum install nginx
 new
 new2
+new3
