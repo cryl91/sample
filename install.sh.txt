@@ -1,6 +1,7 @@
 yum install nginx
 new
 <<<<<<< HEAD
+<<<<<<< HEAD
 new1
 <<<<<<< HEAD
 =======
@@ -12,3 +13,5 @@ PR1
 =======
 PR request
 >>>>>>> new1
+=======
+>>>>>>> d564775fb1dbb59fa9df05dadcfb1ed83cb8a039
