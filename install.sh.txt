@@ -2,9 +2,13 @@ yum install nginx
 new
 <<<<<<< HEAD
 new1
+<<<<<<< HEAD
 =======
 new2
 This is part of new1 branch
 This is for PR Merge
 PR1
 >>>>>>> parent of 2704b65 (Update install.sh.txt)
+=======
+PR request
+>>>>>>> new1
