@@ -1,3 +1,6 @@
 yum install nginx
 new
+<<<<<<< HEAD
 PR1
+=======
+>>>>>>> 7e78274c93fb5ea9eefb95cea0ce31b7354b865a
